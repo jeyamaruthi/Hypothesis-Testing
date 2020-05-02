@@ -1,0 +1,2 @@
+# Hypothesis-Testing
+This project consists of 2 hypothesis testing: 1.) Directional (Greater than H1> Mu) Hypothesis Testing:  The project takes dataset from a CSV file and checks whether the hypothesis is retained or rejected. 2.) Two Samples T-Testing: Similar to above, this project takes dataset from a CSV file and checks whether the hypothesis is retained or rejected by utilizing its formula. 
